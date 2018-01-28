@@ -1,2 +1,4 @@
 # hello-world
-hello-world-prohect
+hello-world-project
+
+It`s hello world project.
